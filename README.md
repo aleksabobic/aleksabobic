@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Aleks I'm a PhD student at the Graz University of Technology and CERN. Previosly I gained lots of experience by working in large teams as a Front End Engineer for 3 years. I'm combining my industry experiences with my research goals to research new exciting solutions related to Information Retrieval and Network Analytics. 
-- 👀 Information Retrieval, Graph Analytics, Natural Language Processing, Machine Learning, Data Analytics and Visualisation
-- 🌱 I’m currently working on my PhD as part of which I'm exploring the intersection between Information Retrieval and Graph Analytics
+- 👋 I create cutting-edge products using full-stack technologies and data analysis, drawing on years of experience as an engineer and researcher. With a passion for data science, data visualization, and software engineering, I embrace new challenges and continuously expand my skillset. 
+- 🌱 I’m currently working on my PhD as part of which I'm exploring the intersection between Information Retrieval, Visual Analytics and Network Science. 
 - 🌍 [My webpage](https://abobic.com/)
 
 <!---

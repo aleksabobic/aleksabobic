@@ -1,5 +1,5 @@
-- 👋 I create cutting-edge products using full-stack technologies and data analysis, drawing on years of experience as an engineer and researcher. With a passion for data science, data visualization, and software engineering, I embrace new challenges and continuously expand my skillset. 
-- 🌱 I’m currently working on my PhD as part of which I'm exploring the intersection between Information Retrieval, Visual Analytics and Network Science. 
+- I'm a software engineer with multiple years of experience developing full-stack data-driven solutions and a PhD in computer science focusing on visual analytics, network science and information retrieval.
+- 🌱 I’m currently working on multiple projects exploring a variety of different techniques, technologies and aiming to solve real world problems. 
 - 🌍 [My webpage](https://abobic.com/)
 
 <!---
